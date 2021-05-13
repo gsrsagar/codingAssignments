@@ -53,8 +53,7 @@ class DateMerger{
         addDates("15/01/2014", "15/02/2014");
         addDates("10/03/2014", "15/04/2014");
         addDates("10/04/2014", "15/05/2014");
-        List<DateRange> res=mergeDates(dlist);
-        res.forEach(value->System.out.println(value.startDate+" "+"--"+" "+value.endDate+"\n"));
+        mergeDates(dlist).forEach(value->System.out.println(value.startDate+" "+"--"+" "+value.endDate+"\n"));
     }
 
 }
