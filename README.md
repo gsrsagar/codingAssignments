@@ -1,7 +1,7 @@
 # codingAssignments
 This repository is aimed to store solved coding questions
 
-Maxxton Team -Hope all good in this pandemic, Run main method in DateMerger class to see the result .
+Maxxton Team -Hope all good in this pandemic, Run DateMerger class to see the result .
 
 
 
